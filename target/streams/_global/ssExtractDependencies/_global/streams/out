@@ -1,7 +1,3 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ...
-[warn] 
-[warn] 	Note: Unresolved dependencies path:
 [error] sbt.librarymanagement.ResolveException: Error downloading org.json4s:json4s-jackson_2.13:3.1.0
 [error]   Not found
 [error]   Not found
@@ -37,7 +33,7 @@
 [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
 [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
 [error] 	at java.base/java.lang.Thread.run(Thread.java:829)
-[error] (update) sbt.librarymanagement.ResolveException: Error downloading org.json4s:json4s-jackson_2.13:3.1.0
+[error] (ssExtractDependencies) sbt.librarymanagement.ResolveException: Error downloading org.json4s:json4s-jackson_2.13:3.1.0
 [error]   Not found
 [error]   Not found
 [error]   not found: /home/anzor.gurchumelia/.ivy2/localorg.json4s/json4s-jackson_2.13/3.1.0/ivys/ivy.xml
